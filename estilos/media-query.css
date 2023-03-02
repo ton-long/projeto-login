@@ -6,13 +6,14 @@
     }
     section#login{
         width: 80vw;
+        height: 300px;
     }
     div#imagem{
         float: left;
         width: 30%;
         height: 100%;
     }
-    div#idform{
+    div#form{
         float: right;
         width: 70%;
     }
@@ -24,6 +25,7 @@
     }
     section#login{
         width: 950px;
+        height: 400px;
     }
     div#imagem{
         float: right;
@@ -39,6 +41,7 @@
     }
     
     div#form > p{
-        font-size: 1.2em;
+        font-size: 1em;
+        margin-bottom: 15px;
     }
 }
