@@ -17,6 +17,9 @@
         float: right;
         width: 70%;
     }
+    div.campo > input{
+        transform: translateY(-12px);
+    }
 }
 
 @media screen and (min-width: 992px){
@@ -43,5 +46,8 @@
     div#form > p{
         font-size: 1em;
         margin-bottom: 15px;
+    }
+    div.campo > input{
+        transform: translateY(-12px);
     }
 }
